@@ -18,7 +18,7 @@ const HomePage = () => {
 
 
 style={{
-  backgroundImage: `
+  backgroundImage: `s
     linear-gradient(
       rgba(0,0,0,0.5),
       rgba(0,0,0,0.5)
