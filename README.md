@@ -14,7 +14,7 @@ Civic Pulse is a frontend web application designed to provide users with informa
 ## 🛠 Tech Stack
 
 * React JS
-* CSS
+* Tailwind CSS
 * Vite
 
 ## 🌐 Live Demo
